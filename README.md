@@ -1,3 +1,4 @@
+<img width="1272" height="742" alt="dashboard_ventas" src="https://github.com/user-attachments/assets/0893ab4b-6be4-414c-9bc7-3f9a6c09b02b" />
 # Proyecto 01 — Análisis de ventas | Comercial Argentina
 
 ## 1. Descripción del proyecto
